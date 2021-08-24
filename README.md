@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icedanceroleg
 - 👀 I’m interested in Deep Learing / Crypto / Fintech / NLP 
-- 🌱 I’m currently learning 2nd year comp sci college student
+- 🌱 I’m currently 2nd year comp sci college student
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me icedanceroleg@gmail.com
  
